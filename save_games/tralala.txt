@@ -1,0 +1,1 @@
+{"max_guesses":10,"dictionary":"5desk.txt","word":"slimly","past_guesses":["a","b","a","b","a","a","a","a","a"],"wrong_guesses":8}

@@ -1,0 +1,1 @@
+{"max_guesses":10,"dictionary":"5desk.txt","word":"stylus","past_guesses":["a","s"],"wrong_guesses":1}
